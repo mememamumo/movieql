@@ -20,6 +20,10 @@
   },
   "homepage": "https://github.com/mememamumo/movieql#readme",
   "dependencies": {
+    "apollo-server-core": "^2.16.0",
+    "apollo-server-express": "^2.16.0",
+    "apollo-server-lambda": "^2.16.0",
+    "graphql-playground-html": "^1.6.25",
     "graphql-yoga": "^1.18.3"
   }
 }
