@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/mememamumo/movieql/issues"
   },
-  "homepage": "https://github.com/mememamumo/movieql#readme"
+  "homepage": "https://github.com/mememamumo/movieql#readme",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
 }
