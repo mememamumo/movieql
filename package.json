@@ -1,0 +1,22 @@
+{
+  "name": "movieql",
+  "version": "1.0.0",
+  "description": "Movie API with Graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mememamumo/movieql.git"
+  },
+  "keywords": [
+    "GraphQL"
+  ],
+  "author": "Yu Na Lee <mememamumo@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mememamumo/movieql/issues"
+  },
+  "homepage": "https://github.com/mememamumo/movieql#readme"
+}
